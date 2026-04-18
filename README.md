@@ -1,4 +1,4 @@
-# 🧊 冰晶英文 (Ice Crystal English)
+# 🧊 冰晶英文阅读器--专为英文学习者设计
 
 官网 http://www.bing-jing.top
 
